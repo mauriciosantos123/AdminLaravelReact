@@ -1,0 +1,3 @@
+username=mcsys
+database=mcsys
+password=60ae6c785beba
