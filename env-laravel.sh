@@ -8,7 +8,7 @@ APP_NAME=usedesconto-site
 APP_ENV=local
 APP_KEY=
 APP_DEBUG=true
-APP_URL=http://usedesconto.com.br
+APP_URL=http:
 
 LOG_CHANNEL=stack
 LOG_LEVEL=debug
@@ -16,9 +16,9 @@ LOG_LEVEL=debug
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=usedesconto
-DB_USERNAME=usedesconto
-DB_PASSWORD=$PMAPSW
+DB_DATABASE=
+DB_USERNAME=
+DB_PASSWORD=
 
 BROADCAST_DRIVER=log
 CACHE_DRIVER=file
